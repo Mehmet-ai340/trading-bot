@@ -29,7 +29,7 @@ jobs:
           ALPACA_API_KEY_ID: ${{ secrets.ALPACA_API_KEY_ID }}
           ALPACA_API_SECRET_KEY: ${{ secrets.ALPACA_API_SECRET_KEY }}
           DRY_RUN: ${{ vars.DRY_RUN || 'true' }}
-          STARTING_CAPITAL: "200"
+          STARTING_CAPITAL: "5000"
         run: python bot.py
       - name: Durumu kaydet
         if: always()
