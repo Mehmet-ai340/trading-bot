@@ -152,8 +152,8 @@ def build_report(state, positions):
 def write_report_md(rows):
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
     lines = [f"# 🏆 Ajan Turnuvası — Karne", f"", f"Son güncelleme: {now} · Başlangıç: ${STARTING_CAPITAL:.0f}/ajan · PAPER (demo)", "",
-             | # | Ajan | Toplam P&L | Getiri % | İşlem | Kazanma % | Gerçekleşen | Açık P&L | Max Düşüş |",
-             |---|------|-----------|---------|-------|-----------|-------------|----------|-----------|"]
+             "| # | Ajan | Toplam P&L | Getiri % | İşlem | Kazanma % | Gerçekleşen | Açık P&L | Max Düşüş |",
+             "|---|------|-----------|---------|-------|-----------|-------------|----------|-----------|"]
     for i, r in enumerate(rows, 1):
         medal = ["🥇","🥈","🥉","4️⃣"][i-1] if i <= 4 else str(i)
         ret = r["pnl_total"]/STARTING_CAPITAL*100
