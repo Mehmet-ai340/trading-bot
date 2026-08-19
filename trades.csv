@@ -1,3 +1,4 @@
 time,strategy,symbol,action,qty_or_notional,price,reason,realized_pnl
 2026-08-17 13:56:53.765482+00:00,C_momentum,NVDA,BUY,625.0,226.29,momentum +11.3%,0.00
 2026-08-17 13:56:53.838614+00:00,C_momentum,AMZN,BUY,625.0,262.87,momentum +5.2%,0.00
+2026-08-19 14:06:20.583512+00:00,B_pullback,AAPL,BUY,625.0,316.895,RSI dipten donus,0.00
