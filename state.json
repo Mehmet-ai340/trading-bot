@@ -26,7 +26,7 @@
       "count": 0,
       "wins": 0,
       "losses": 0,
-      "peak_equity": 5000.0
+      "peak_equity": 5000.858613
     }
   },
   "NVDA": {
@@ -42,7 +42,7 @@
     "peak": 316.895
   },
   "ETHUSD": {
-    "stop": 1916.222,
-    "peak": 2082.85
+    "stop": 1922.1054,
+    "peak": 2089.245
   }
 }
