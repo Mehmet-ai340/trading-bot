@@ -15,9 +15,9 @@
       "peak_equity": 5001.318045
     },
     "C_momentum": {
-      "realized": -3.681988,
-      "count": 1,
-      "wins": 0,
+      "realized": -3.65816,
+      "count": 2,
+      "wins": 1,
       "losses": 1,
       "peak_equity": 5000.784351
     },
@@ -48,9 +48,5 @@
   "BTCUSD": {
     "stop": 66912.93768,
     "peak": 72731.454
-  },
-  "GOOGL": {
-    "stop": 313.71659600000004,
-    "peak": 340.9963
   }
 }
