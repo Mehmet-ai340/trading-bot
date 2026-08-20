@@ -15,10 +15,10 @@
       "peak_equity": 5001.318045
     },
     "C_momentum": {
-      "realized": 0.0,
-      "count": 0,
+      "realized": -3.681988,
+      "count": 1,
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "peak_equity": 5000.784351
     },
     "D_crypto": {
@@ -26,7 +26,7 @@
       "count": 0,
       "wins": 0,
       "losses": 0,
-      "peak_equity": 5085.740084
+      "peak_equity": 5096.919364
     }
   },
   "NVDA": {
@@ -42,15 +42,11 @@
     "peak": 316.895
   },
   "ETHUSD": {
-    "stop": 2112.19672,
-    "peak": 2295.866
+    "stop": 2133.8296,
+    "peak": 2319.38
   },
   "BTCUSD": {
-    "stop": 66300.96426,
-    "peak": 72066.2655
-  },
-  "GOOGL": {
-    "stop": 314.0144,
-    "peak": 341.32
+    "stop": 66539.25024,
+    "peak": 72325.272
   }
 }
