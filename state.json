@@ -15,10 +15,10 @@
       "peak_equity": 5001.318045
     },
     "C_momentum": {
-      "realized": 2.2882969999999996,
-      "count": 3,
+      "realized": 1.2283389999999996,
+      "count": 4,
       "wins": 2,
-      "losses": 1,
+      "losses": 2,
       "peak_equity": 5000.784351
     },
     "D_crypto": {
@@ -38,15 +38,11 @@
     "peak": 265.99
   },
   "ETHUSD": {
-    "stop": 2215.268,
-    "peak": 2407.9
+    "stop": 2230.8436,
+    "peak": 2424.83
   },
   "BTCUSD": {
     "stop": 71821.32168,
     "peak": 78066.654
-  },
-  "GOOGL": {
-    "stop": 318.1728,
-    "peak": 345.84
   }
 }
