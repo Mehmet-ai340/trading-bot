@@ -8,3 +8,5 @@ time,strategy,symbol,action,qty_or_notional,price,reason,realized_pnl
 2026-08-20 16:01:32.445964+00:00,C_momentum,GOOGL,SELL,all,339.43,trend kirildi (SMA50),-3.68
 2026-08-20 17:50:23.244662+00:00,C_momentum,GOOGL,BUY,625.0,340.9963,momentum +7.3%,0.00
 2026-08-20 19:45:09.562970+00:00,C_momentum,GOOGL,SELL,all,341.0125,trend kirildi (SMA50),0.02
+2026-08-21 14:09:32.771844+00:00,B_pullback,AAPL,SELL,all,307.67,trend kirildi (SMA50),-17.62
+2026-08-21 14:09:33.397109+00:00,C_momentum,GOOGL,BUY,625.0,342.065,momentum +7.0%,0.00
