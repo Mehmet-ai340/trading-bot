@@ -15,10 +15,10 @@
       "peak_equity": 5001.318045
     },
     "C_momentum": {
-      "realized": -38.891005,
-      "count": 6,
+      "realized": -42.61341,
+      "count": 7,
       "wins": 3,
-      "losses": 3,
+      "losses": 4,
       "peak_equity": 5000.784351
     },
     "D_crypto": {
@@ -44,9 +44,5 @@
   "NVDA": {
     "stop": 193.4576,
     "peak": 210.28
-  },
-  "GOOGL": {
-    "stop": 322.79580000000004,
-    "peak": 350.865
   }
 }
