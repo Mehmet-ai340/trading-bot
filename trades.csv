@@ -14,3 +14,5 @@ time,strategy,symbol,action,qty_or_notional,price,reason,realized_pnl
 2026-08-21 17:06:45.624458+00:00,C_momentum,GOOGL,BUY,625.0,345.84,momentum +8.2%,0.00
 2026-08-21 18:04:41.959616+00:00,C_momentum,GOOGL,SELL,all,345.115,trend kirildi (SMA50),-1.06
 2026-08-21 19:33:56.425546+00:00,C_momentum,GOOGL,BUY,625.0,345.545,momentum +8.1%,0.00
+2026-08-24 14:26:15.182238+00:00,C_momentum,NVDA,SELL,all,209.1694,trailing stop,-47.03
+2026-08-24 14:26:15.355663+00:00,C_momentum,GOOGL,SELL,all,348.55,trend kirildi (SMA50),6.91
