@@ -1,12 +1,12 @@
 # 🏆 Ajan Turnuvası — Karne
 
-Son güncelleme: 2026-08-25 11:04 UTC · Başlangıç: $5000/ajan · PAPER (demo)
+Son güncelleme: 2026-08-25 14:08 UTC · Başlangıç: $5000/ajan · PAPER (demo)
 
 | # | Ajan | Toplam P&L | Getiri % | İşlem | Kazanma % | Gerçekleşen | Açık P&L | Max Düşüş |
 |---|------|-----------|---------|-------|-----------|-------------|----------|-----------|
-| 🥇 | D_crypto | $+204.18 | +4.1% | 0 | 0% | $+0.00 | $+204.18 | $22.26 |
+| 🥇 | D_crypto | $+194.35 | +3.9% | 0 | 0% | $+0.00 | $+194.35 | $32.09 |
 | 🥈 | A_trend | $+0.00 | +0.0% | 0 | 0% | $+0.00 | $+0.00 | $0.00 |
 | 🥉 | B_pullback | $-17.62 | -0.4% | 1 | 0% | $-17.62 | $+0.00 | $18.94 |
-| 4️⃣ | C_momentum | $-40.68 | -0.8% | 7 | 43% | $-42.61 | $+1.93 | $41.46 |
+| 4️⃣ | C_momentum | $-43.87 | -0.9% | 8 | 38% | $-46.33 | $+2.46 | $44.66 |
 
 > Kazanan = en çok kazanan değil; **iyi getiri + düşük düşüş + tutarlılık.** Yeterli işlem birikene kadar (20-30+) sonuçlar erken sayılır.
