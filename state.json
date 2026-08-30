@@ -27,6 +27,13 @@
       "wins": 0,
       "losses": 0,
       "peak_equity": 5226.442505
+    },
+    "E_metals": {
+      "realized": 0.0,
+      "count": 0,
+      "wins": 0,
+      "losses": 0,
+      "peak_equity": 5000.0
     }
   },
   "AMZN": {
