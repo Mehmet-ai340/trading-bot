@@ -47,6 +47,7 @@ STRATEGIES = {
     "B_pullback":  {"type": "pullback", "symbols": ["AAPL", "MSFT"],         "asset": "stock"},
     "C_momentum":  {"type": "momentum", "symbols": ["NVDA", "AMZN", "GOOGL"], "asset": "stock"},
     "D_crypto":    {"type": "trend",    "symbols": ["BTC/USD", "ETH/USD"],   "asset": "crypto"},
+    "E_metals":    {"type": "trend",    "symbols": ["GLD", "SLV"],     "asset": "stock"},
 }
 
 # sembol -> ajan haritasi (pozisyon anahtari da dahil, BTC/USD ve BTCUSD)
