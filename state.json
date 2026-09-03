@@ -26,7 +26,7 @@
       "count": 0,
       "wins": 0,
       "losses": 0,
-      "peak_equity": 5226.442505
+      "peak_equity": 5227.365977
     },
     "E_metals": {
       "realized": 0.0,
@@ -45,8 +45,8 @@
     "peak": 2527.235
   },
   "BTCUSD": {
-    "stop": 74547.508,
-    "peak": 81029.9
+    "stop": 74647.50142,
+    "peak": 81138.5885
   },
   "NVDA": {
     "stop": 210.4224,
