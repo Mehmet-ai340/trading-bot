@@ -20,6 +20,7 @@ import bot   # ayni klasordeki bot.py
 from alpaca.data.historical import StockHistoricalDataClient, CryptoHistoricalDataClient
 from alpaca.data.requests import StockBarsRequest, CryptoBarsRequest
 from alpaca.data.timeframe import TimeFrame, TimeFrameUnit
+from alpaca.data.enums import Adjustment
 
 YEARS        = int(os.environ.get("BACKTEST_YEARS", "5"))
 INTRADAY_DAYS= int(os.environ.get("BACKTEST_INTRADAY_DAYS", "30"))
@@ -40,7 +41,7 @@ def fetch(sc, cc, symbol, asset, bar):
     if asset == "crypto":
         df = cc.get_crypto_bars(CryptoBarsRequest(symbol_or_symbols=[symbol], timeframe=tf, start=start)).df
     else:
-        df = sc.get_stock_bars(StockBarsRequest(symbol_or_symbols=[symbol], timeframe=tf, start=start)).df
+        df = sc.get_stock_bars(StockBarsRequest(symbol_or_symbols=[symbol], timeframe=tf, start=start, adjustment=Adjustment.ALL)).df
     if df is None or df.empty: return None
     if isinstance(df.index, pd.MultiIndex): df = df.xs(symbol, level=0)
     return df
