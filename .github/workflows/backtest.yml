@@ -1,0 +1,51 @@
+name: Backtest
+
+# Elle tetiklenir: Actions sekmesi -> Backtest -> Run workflow
+on:
+  workflow_dispatch:
+    inputs:
+      years:
+        description: "Gunluk ajanlar icin kac yillik gecmis"
+        required: false
+        default: "5"
+      intraday_days:
+        description: "F_intraday icin kac gunluk 15dk verisi"
+        required: false
+        default: "30"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: trading-bot-backtest
+  cancel-in-progress: false
+
+jobs:
+  backtest:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Kodu al
+        uses: actions/checkout@v4
+      - name: Python kur
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Bagimliliklari yukle
+        run: pip install -r requirements.txt
+      - name: Backtest calistir
+        env:
+          ALPACA_API_KEY_ID: ${{ secrets.ALPACA_API_KEY_ID }}
+          ALPACA_API_SECRET_KEY: ${{ secrets.ALPACA_API_SECRET_KEY }}
+          DRY_RUN: "true"                 # backtest ASLA emir gondermez
+          STARTING_CAPITAL: "5000"
+          BACKTEST_YEARS: ${{ inputs.years }}
+          BACKTEST_INTRADAY_DAYS: ${{ inputs.intraday_days }}
+        run: python backtest.py
+      - name: Sonucu kaydet
+        if: always()
+        run: |
+          git config user.name "trading-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add backtest.md 2>/dev/null || true
+          git commit -m "backtest sonucu" 2>/dev/null || echo nochange
+          git push 2>/dev/null || echo nopush
