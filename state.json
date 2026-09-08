@@ -41,12 +41,12 @@
       "costs": 0.0
     },
     "F_intraday": {
-      "realized": 0.0,
-      "count": 0,
+      "realized": -1.132366,
+      "count": 1,
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "peak_equity": 5000.771618,
-      "costs": 0.0
+      "costs": 0.625
     }
   },
   "AMZN": {
@@ -76,9 +76,5 @@
   "_lastdec_GOOGL": "2026-09-08",
   "_lastdec_GLD": "2026-09-08",
   "_lastdec_SLV": "2026-09-08",
-  "IWM": {
-    "stop": 291.53045000000003,
-    "peak": 295.97,
-    "notional": 625.0
-  }
+  "_intraday_done_IWM": "2026-09-08"
 }
