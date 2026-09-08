@@ -75,5 +75,10 @@
   "_lastdec_AMZN": "2026-09-08",
   "_lastdec_GOOGL": "2026-09-08",
   "_lastdec_GLD": "2026-09-08",
-  "_lastdec_SLV": "2026-09-08"
+  "_lastdec_SLV": "2026-09-08",
+  "IWM": {
+    "stop": 291.21032499999995,
+    "peak": 295.645,
+    "notional": 625.0
+  }
 }
