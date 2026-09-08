@@ -45,7 +45,7 @@
       "count": 0,
       "wins": 0,
       "losses": 0,
-      "peak_equity": 5000.570786,
+      "peak_equity": 5000.771618,
       "costs": 0.0
     }
   },
@@ -77,8 +77,8 @@
   "_lastdec_GLD": "2026-09-08",
   "_lastdec_SLV": "2026-09-08",
   "IWM": {
-    "stop": 291.45165,
-    "peak": 295.89,
+    "stop": 291.53045000000003,
+    "peak": 295.97,
     "notional": 625.0
   }
 }
