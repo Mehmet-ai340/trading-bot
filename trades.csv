@@ -23,3 +23,4 @@ time,strategy,symbol,action,qty_or_notional,price,reason,realized_pnl
 2026-08-25 14:08:02.025527+00:00,C_momentum,GOOGL,SELL,all,347.6375,trend kirildi (SMA50),-3.72
 2026-09-08 15:56:27.176300+00:00,F_intraday,IWM,BUY,625.0,295.645,8 mum zirve kirilimi,0.00
 2026-09-08 19:06:11.307581+00:00,F_intraday,IWM,SELL,all,295.3674,15dk SMA20 alti (maliyet $0.62),-1.13
+2026-09-10 13:38:45.038098+00:00,C_momentum,AMZN,SELL,all,251.205,trend kirildi (SMA50) (maliyet $0.62),-26.23
