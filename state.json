@@ -41,12 +41,12 @@
       "costs": 0.0
     },
     "F_intraday": {
-      "realized": -1.132366,
-      "count": 1,
+      "realized": -2.4030880000000003,
+      "count": 2,
       "wins": 0,
-      "losses": 1,
+      "losses": 2,
       "peak_equity": 5000.771618,
-      "costs": 0.625
+      "costs": 1.25
     }
   },
   "ETHUSD": {
@@ -73,9 +73,5 @@
   "_lastdec_GLD": "2026-09-11",
   "_lastdec_SLV": "2026-09-11",
   "_intraday_done_IWM": "2026-09-08",
-  "DIA": {
-    "stop": 518.94725,
-    "peak": 526.85,
-    "notional": 625.0
-  }
+  "_intraday_done_DIA": "2026-09-11"
 }
