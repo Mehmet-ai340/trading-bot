@@ -25,12 +25,12 @@
       "costs": 1.25
     },
     "D_crypto": {
-      "realized": 92.016852,
-      "count": 1,
-      "wins": 1,
+      "realized": 146.48647,
+      "count": 2,
+      "wins": 2,
       "losses": 0,
       "peak_equity": 5250.822134,
-      "costs": 0.625
+      "costs": 1.25
     },
     "E_metals": {
       "realized": 0.0,
@@ -48,10 +48,6 @@
       "peak_equity": 5000.771618,
       "costs": 1.25
     }
-  },
-  "BTCUSD": {
-    "stop": 75380.03256,
-    "peak": 81934.818
   },
   "_lastdec_BTCUSD": "2026-09-15",
   "_lastdec_ETHUSD": "2026-09-15",
