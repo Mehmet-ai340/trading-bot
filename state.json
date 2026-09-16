@@ -41,30 +41,25 @@
       "costs": 0.0
     },
     "F_intraday": {
-      "realized": -2.4030880000000003,
-      "count": 2,
+      "realized": -4.4271780000000005,
+      "count": 3,
       "wins": 0,
-      "losses": 2,
+      "losses": 3,
       "peak_equity": 5000.771618,
-      "costs": 1.25
+      "costs": 1.875
     }
   },
   "_lastdec_BTCUSD": "2026-09-16",
   "_lastdec_ETHUSD": "2026-09-16",
-  "_lastdec_SPY": "2026-09-15",
-  "_lastdec_QQQ": "2026-09-15",
-  "_lastdec_AAPL": "2026-09-15",
-  "_lastdec_MSFT": "2026-09-15",
-  "_lastdec_NVDA": "2026-09-15",
-  "_lastdec_AMZN": "2026-09-15",
-  "_lastdec_GOOGL": "2026-09-15",
-  "_lastdec_GLD": "2026-09-15",
-  "_lastdec_SLV": "2026-09-15",
+  "_lastdec_SPY": "2026-09-16",
+  "_lastdec_QQQ": "2026-09-16",
+  "_lastdec_AAPL": "2026-09-16",
+  "_lastdec_MSFT": "2026-09-16",
+  "_lastdec_NVDA": "2026-09-16",
+  "_lastdec_AMZN": "2026-09-16",
+  "_lastdec_GOOGL": "2026-09-16",
+  "_lastdec_GLD": "2026-09-16",
+  "_lastdec_SLV": "2026-09-16",
   "_intraday_done_IWM": "2026-09-08",
-  "_intraday_done_DIA": "2026-09-11",
-  "DIA": {
-    "stop": 513.2835,
-    "peak": 521.1,
-    "notional": 625.0
-  }
+  "_intraday_done_DIA": "2026-09-16"
 }
