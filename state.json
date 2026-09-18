@@ -61,5 +61,10 @@
   "_lastdec_GLD": "2026-09-18",
   "_lastdec_SLV": "2026-09-18",
   "_intraday_done_IWM": "2026-09-08",
-  "_intraday_done_DIA": "2026-09-16"
+  "_intraday_done_DIA": "2026-09-16",
+  "DIA": {
+    "stop": 507.6886999999999,
+    "peak": 515.42,
+    "notional": 625.0
+  }
 }
