@@ -1,6 +1,6 @@
 # 🏆 Ajan Turnuvası — Karne
 
-Son güncelleme: 2026-09-18 01:16 UTC · Başlangıç: $5000/ajan · PAPER (demo)
+Son güncelleme: 2026-09-18 06:13 UTC · Başlangıç: $5000/ajan · PAPER (demo)
 
 | # | Ajan | Toplam P&L | Getiri % | İşlem | Kazanma % | Gerçekleşen | Açık P&L | Maliyet | Max Düşüş |
 |---|------|-----------|---------|-------|-----------|-------------|----------|---------|-----------|
