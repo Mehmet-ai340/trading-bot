@@ -49,8 +49,8 @@
       "costs": 1.875
     }
   },
-  "_lastdec_BTCUSD": "2026-09-21",
-  "_lastdec_ETHUSD": "2026-09-21",
+  "_lastdec_BTCUSD": "2026-09-22",
+  "_lastdec_ETHUSD": "2026-09-22",
   "_lastdec_SPY": "2026-09-21",
   "_lastdec_QQQ": "2026-09-21",
   "_lastdec_AAPL": "2026-09-21",
@@ -70,6 +70,16 @@
   "IWM": {
     "stop": 281.872525,
     "peak": 286.165,
+    "notional": 625.0
+  },
+  "BTCUSD": {
+    "stop": 79255.7,
+    "peak": 86147.5,
+    "notional": 625.0
+  },
+  "ETHUSD": {
+    "stop": 2550.0560000000005,
+    "peak": 2771.8,
     "notional": 625.0
   }
 }
