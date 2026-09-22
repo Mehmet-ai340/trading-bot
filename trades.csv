@@ -35,3 +35,8 @@ time,strategy,symbol,action,qty_or_notional,price,reason,realized_pnl
 2026-09-21 18:40:32.018245+00:00,F_intraday,IWM,BUY,625.0,286.165,8 mum zirve kirilimi,0.00
 2026-09-22 00:51:31.102511+00:00,D_crypto,BTC/USD,BUY,625.0,86147.5,20g zirve kirilimi,0.00
 2026-09-22 00:51:31.268446+00:00,D_crypto,ETH/USD,BUY,625.0,2771.8,20g zirve kirilimi,0.00
+2026-09-22 15:05:37.416218+00:00,A_trend,SPY,BUY,625.0,773.5,20g zirve kirilimi,0.00
+2026-09-22 15:05:37.515118+00:00,A_trend,QQQ,BUY,625.0,744.64,20g zirve kirilimi,0.00
+2026-09-22 15:05:37.727902+00:00,C_momentum,NVDA,BUY,625.0,228.38,momentum +6.0%,0.00
+2026-09-22 15:05:38.870106+00:00,F_intraday,IWM,SELL,all,286.375,15dk SMA20 alti (maliyet $0.62),0.47
+2026-09-22 15:05:38.991101+00:00,F_intraday,DIA,SELL,all,517.36,15dk SMA20 alti (maliyet $0.62),1.45

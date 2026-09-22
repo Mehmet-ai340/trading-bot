@@ -41,45 +41,50 @@
       "costs": 0.0
     },
     "F_intraday": {
-      "realized": -4.4271780000000005,
-      "count": 3,
-      "wins": 0,
+      "realized": -2.508046,
+      "count": 5,
+      "wins": 2,
       "losses": 3,
       "peak_equity": 5003.863687,
-      "costs": 1.875
+      "costs": 3.125
     }
   },
   "_lastdec_BTCUSD": "2026-09-22",
   "_lastdec_ETHUSD": "2026-09-22",
-  "_lastdec_SPY": "2026-09-21",
-  "_lastdec_QQQ": "2026-09-21",
-  "_lastdec_AAPL": "2026-09-21",
-  "_lastdec_MSFT": "2026-09-21",
-  "_lastdec_NVDA": "2026-09-21",
-  "_lastdec_AMZN": "2026-09-21",
-  "_lastdec_GOOGL": "2026-09-21",
-  "_lastdec_GLD": "2026-09-21",
-  "_lastdec_SLV": "2026-09-21",
-  "_intraday_done_IWM": "2026-09-08",
-  "_intraday_done_DIA": "2026-09-16",
-  "DIA": {
-    "stop": 512.1606,
-    "peak": 519.96,
-    "notional": 625.0
-  },
-  "IWM": {
-    "stop": 281.872525,
-    "peak": 286.165,
-    "notional": 625.0
-  },
+  "_lastdec_SPY": "2026-09-22",
+  "_lastdec_QQQ": "2026-09-22",
+  "_lastdec_AAPL": "2026-09-22",
+  "_lastdec_MSFT": "2026-09-22",
+  "_lastdec_NVDA": "2026-09-22",
+  "_lastdec_AMZN": "2026-09-22",
+  "_lastdec_GOOGL": "2026-09-22",
+  "_lastdec_GLD": "2026-09-22",
+  "_lastdec_SLV": "2026-09-22",
+  "_intraday_done_IWM": "2026-09-22",
+  "_intraday_done_DIA": "2026-09-22",
   "BTCUSD": {
-    "stop": 79255.7,
-    "peak": 86147.5,
+    "stop": 79346.3016,
+    "peak": 86245.98,
     "notional": 625.0
   },
   "ETHUSD": {
     "stop": 2550.0560000000005,
     "peak": 2771.8,
+    "notional": 625.0
+  },
+  "SPY": {
+    "stop": 711.62,
+    "peak": 773.5,
+    "notional": 625.0
+  },
+  "QQQ": {
+    "stop": 685.0688,
+    "peak": 744.64,
+    "notional": 625.0
+  },
+  "NVDA": {
+    "stop": 210.1096,
+    "peak": 228.38,
     "notional": 625.0
   }
 }
