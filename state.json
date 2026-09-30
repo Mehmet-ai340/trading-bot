@@ -41,12 +41,12 @@
       "costs": 0.0
     },
     "F_intraday": {
-      "realized": -2.508046,
-      "count": 5,
+      "realized": -4.993076,
+      "count": 6,
       "wins": 2,
-      "losses": 3,
+      "losses": 4,
       "peak_equity": 5003.863687,
-      "costs": 3.125
+      "costs": 3.75
     }
   },
   "_lastdec_BTCUSD": "2026-09-30",
@@ -61,7 +61,7 @@
   "_lastdec_GLD": "2026-09-30",
   "_lastdec_SLV": "2026-09-30",
   "_intraday_done_IWM": "2026-09-22",
-  "_intraday_done_DIA": "2026-09-22",
+  "_intraday_done_DIA": "2026-09-30",
   "BTCUSD": {
     "stop": 79591.73000000001,
     "peak": 86512.75,
@@ -85,11 +85,6 @@
   "NVDA": {
     "stop": 212.8972,
     "peak": 231.41,
-    "notional": 625.0
-  },
-  "DIA": {
-    "stop": 506.28015,
-    "peak": 513.99,
     "notional": 625.0
   }
 }
