@@ -5,7 +5,7 @@
       "count": 0,
       "wins": 0,
       "losses": 0,
-      "peak_equity": 5004.538343,
+      "peak_equity": 5007.354414,
       "costs": 0.0
     },
     "B_pullback": {
@@ -51,15 +51,15 @@
   },
   "_lastdec_BTCUSD": "2026-10-05",
   "_lastdec_ETHUSD": "2026-10-05",
-  "_lastdec_SPY": "2026-10-02",
-  "_lastdec_QQQ": "2026-10-02",
-  "_lastdec_AAPL": "2026-10-02",
-  "_lastdec_MSFT": "2026-10-02",
-  "_lastdec_NVDA": "2026-10-02",
-  "_lastdec_AMZN": "2026-10-02",
-  "_lastdec_GOOGL": "2026-10-02",
-  "_lastdec_GLD": "2026-10-02",
-  "_lastdec_SLV": "2026-10-02",
+  "_lastdec_SPY": "2026-10-05",
+  "_lastdec_QQQ": "2026-10-05",
+  "_lastdec_AAPL": "2026-10-05",
+  "_lastdec_MSFT": "2026-10-05",
+  "_lastdec_NVDA": "2026-10-05",
+  "_lastdec_AMZN": "2026-10-05",
+  "_lastdec_GOOGL": "2026-10-05",
+  "_lastdec_GLD": "2026-10-05",
+  "_lastdec_SLV": "2026-10-05",
   "_intraday_done_IWM": "2026-09-22",
   "_intraday_done_DIA": "2026-09-30",
   "BTCUSD": {
@@ -78,13 +78,13 @@
     "notional": 625.0
   },
   "QQQ": {
-    "stop": 689.9540000000001,
-    "peak": 749.95,
+    "stop": 693.45552,
+    "peak": 753.756,
     "notional": 625.0
   },
   "NVDA": {
-    "stop": 217.143,
-    "peak": 236.025,
+    "stop": 217.88406,
+    "peak": 236.8305,
     "notional": 625.0
   }
 }
