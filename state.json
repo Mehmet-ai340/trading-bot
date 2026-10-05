@@ -5,7 +5,7 @@
       "count": 0,
       "wins": 0,
       "losses": 0,
-      "peak_equity": 5003.332483,
+      "peak_equity": 5004.538343,
       "costs": 0.0
     },
     "B_pullback": {
@@ -49,8 +49,8 @@
       "costs": 3.75
     }
   },
-  "_lastdec_BTCUSD": "2026-10-04",
-  "_lastdec_ETHUSD": "2026-10-04",
+  "_lastdec_BTCUSD": "2026-10-05",
+  "_lastdec_ETHUSD": "2026-10-05",
   "_lastdec_SPY": "2026-10-02",
   "_lastdec_QQQ": "2026-10-02",
   "_lastdec_AAPL": "2026-10-02",
@@ -63,8 +63,8 @@
   "_intraday_done_IWM": "2026-09-22",
   "_intraday_done_DIA": "2026-09-30",
   "BTCUSD": {
-    "stop": 79591.73000000001,
-    "peak": 86512.75,
+    "stop": 79650.564,
+    "peak": 86576.7,
     "notional": 625.0
   },
   "ETHUSD": {
