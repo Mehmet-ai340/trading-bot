@@ -25,12 +25,12 @@
       "costs": 1.25
     },
     "D_crypto": {
-      "realized": 146.48647,
-      "count": 2,
+      "realized": 92.33841799999999,
+      "count": 3,
       "wins": 2,
-      "losses": 0,
+      "losses": 1,
       "peak_equity": 5250.822134,
-      "costs": 1.25
+      "costs": 1.875
     },
     "E_metals": {
       "realized": 0.0,
@@ -65,11 +65,6 @@
   "BTCUSD": {
     "stop": 79650.564,
     "peak": 86576.7,
-    "notional": 625.0
-  },
-  "ETHUSD": {
-    "stop": 2550.0560000000005,
-    "peak": 2771.8,
     "notional": 625.0
   },
   "SPY": {
