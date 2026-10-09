@@ -51,15 +51,15 @@
   },
   "_lastdec_BTCUSD": "2026-10-09",
   "_lastdec_ETHUSD": "2026-10-09",
-  "_lastdec_SPY": "2026-10-08",
-  "_lastdec_QQQ": "2026-10-08",
-  "_lastdec_AAPL": "2026-10-08",
-  "_lastdec_MSFT": "2026-10-08",
-  "_lastdec_NVDA": "2026-10-08",
-  "_lastdec_AMZN": "2026-10-08",
-  "_lastdec_GOOGL": "2026-10-08",
-  "_lastdec_GLD": "2026-10-08",
-  "_lastdec_SLV": "2026-10-08",
+  "_lastdec_SPY": "2026-10-09",
+  "_lastdec_QQQ": "2026-10-09",
+  "_lastdec_AAPL": "2026-10-09",
+  "_lastdec_MSFT": "2026-10-09",
+  "_lastdec_NVDA": "2026-10-09",
+  "_lastdec_AMZN": "2026-10-09",
+  "_lastdec_GOOGL": "2026-10-09",
+  "_lastdec_GLD": "2026-10-09",
+  "_lastdec_SLV": "2026-10-09",
   "_intraday_done_IWM": "2026-09-22",
   "_intraday_done_DIA": "2026-09-30",
   "BTCUSD": {
@@ -83,13 +83,18 @@
     "notional": 625.0
   },
   "GOOGL": {
-    "stop": 319.39180000000005,
-    "peak": 347.165,
+    "stop": 325.703,
+    "peak": 354.025,
     "notional": 625.0
   },
   "IWM": {
-    "stop": 273.224225,
-    "peak": 277.385,
+    "stop": 274.6377,
+    "peak": 278.82,
+    "notional": 625.0
+  },
+  "DIA": {
+    "stop": 507.54094999999995,
+    "peak": 515.27,
     "notional": 625.0
   }
 }
