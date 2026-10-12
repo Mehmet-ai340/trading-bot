@@ -46,3 +46,4 @@ time,strategy,symbol,action,qty_or_notional,price,reason,realized_pnl
 2026-10-08 17:55:55.504683+00:00,C_momentum,GOOGL,BUY,625.0,347.165,momentum +6.0%,0.00
 2026-10-08 17:55:56.124870+00:00,F_intraday,IWM,BUY,625.0,277.385,8 mum zirve kirilimi,0.00
 2026-10-09 16:34:56.498239+00:00,F_intraday,DIA,BUY,625.0,515.27,8 mum zirve kirilimi,0.00
+2026-10-12 16:23:41.532056+00:00,F_intraday,IWM,SELL,all,278.55,15dk SMA20 alti (maliyet $0.62),1.99
