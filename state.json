@@ -17,12 +17,12 @@
       "costs": 0.0
     },
     "C_momentum": {
-      "realized": -72.690217,
-      "count": 10,
+      "realized": -91.72301900000001,
+      "count": 11,
       "wins": 3,
-      "losses": 7,
+      "losses": 8,
       "peak_equity": 5014.706454,
-      "costs": 1.25
+      "costs": 1.875
     },
     "D_crypto": {
       "realized": 92.33841799999999,
@@ -41,26 +41,26 @@
       "costs": 0.0
     },
     "F_intraday": {
-      "realized": -2.6490620000000007,
-      "count": 8,
+      "realized": -15.532309000000001,
+      "count": 9,
       "wins": 4,
-      "losses": 4,
+      "losses": 5,
       "peak_equity": 5003.863687,
-      "costs": 5.0
+      "costs": 5.625
     }
   },
   "_lastdec_BTCUSD": "2026-10-14",
   "_lastdec_ETHUSD": "2026-10-14",
-  "_lastdec_SPY": "2026-10-13",
-  "_lastdec_QQQ": "2026-10-13",
-  "_lastdec_AAPL": "2026-10-13",
-  "_lastdec_MSFT": "2026-10-13",
-  "_lastdec_NVDA": "2026-10-13",
-  "_lastdec_AMZN": "2026-10-13",
-  "_lastdec_GOOGL": "2026-10-13",
-  "_lastdec_GLD": "2026-10-13",
-  "_lastdec_SLV": "2026-10-13",
-  "_intraday_done_IWM": "2026-10-12",
+  "_lastdec_SPY": "2026-10-14",
+  "_lastdec_QQQ": "2026-10-14",
+  "_lastdec_AAPL": "2026-10-14",
+  "_lastdec_MSFT": "2026-10-14",
+  "_lastdec_NVDA": "2026-10-14",
+  "_lastdec_AMZN": "2026-10-14",
+  "_lastdec_GOOGL": "2026-10-14",
+  "_lastdec_GLD": "2026-10-14",
+  "_lastdec_SLV": "2026-10-14",
+  "_intraday_done_IWM": "2026-10-14",
   "_intraday_done_DIA": "2026-10-13",
   "BTCUSD": {
     "stop": 79650.564,
@@ -77,19 +77,9 @@
     "peak": 761.8199,
     "notional": 625.0
   },
-  "NVDA": {
-    "stop": 222.1524,
-    "peak": 241.47,
-    "notional": 625.0
-  },
   "GOOGL": {
     "stop": 326.3148,
     "peak": 354.69,
-    "notional": 625.0
-  },
-  "IWM": {
-    "stop": 272.75635,
-    "peak": 276.91,
     "notional": 625.0
   }
 }

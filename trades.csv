@@ -49,3 +49,5 @@ time,strategy,symbol,action,qty_or_notional,price,reason,realized_pnl
 2026-10-12 16:23:41.532056+00:00,F_intraday,IWM,SELL,all,278.55,15dk SMA20 alti (maliyet $0.62),1.99
 2026-10-13 18:16:22.682308+00:00,F_intraday,IWM,BUY,625.0,276.91,8 mum zirve kirilimi,0.00
 2026-10-13 18:16:22.844525+00:00,F_intraday,DIA,SELL,all,516.17,15dk SMA20 alti (maliyet $0.62),0.36
+2026-10-14 17:25:38.501801+00:00,C_momentum,NVDA,SELL,all,221.87,trailing stop (maliyet $0.62),-19.03
+2026-10-14 17:25:39.004549+00:00,F_intraday,IWM,SELL,all,271.31,trailing stop (maliyet $0.62),-12.88
