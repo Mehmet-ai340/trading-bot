@@ -54,3 +54,4 @@ time,strategy,symbol,action,qty_or_notional,price,reason,realized_pnl
 2026-10-19 13:48:21.692566+00:00,A_trend,SPY,SELL,all,766.97,trend kirildi (SMA50) (maliyet $0.62),-5.75
 2026-10-19 13:48:21.867524+00:00,A_trend,QQQ,SELL,all,719.328,trend kirildi (SMA50) (maliyet $0.62),-21.55
 2026-10-19 13:48:22.651201+00:00,C_momentum,GOOGL,SELL,all,343.3725,trend kirildi (SMA50) (maliyet $0.62),-7.73
+2026-10-21 18:04:47.638241+00:00,F_intraday,DIA,BUY,625.0,527.05,8 mum zirve kirilimi,0.00
