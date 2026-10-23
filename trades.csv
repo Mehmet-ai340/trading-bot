@@ -57,3 +57,4 @@ time,strategy,symbol,action,qty_or_notional,price,reason,realized_pnl
 2026-10-21 18:04:47.638241+00:00,F_intraday,DIA,BUY,625.0,527.05,8 mum zirve kirilimi,0.00
 2026-10-22 14:49:05.229741+00:00,C_momentum,AMZN,BUY,625.0,252.135,momentum +5.3%,0.00
 2026-10-22 14:49:05.801807+00:00,F_intraday,DIA,SELL,all,524.64,15dk SMA20 alti (maliyet $0.62),-3.10
+2026-10-23 00:46:48.918282+00:00,D_crypto,BTC/USD,SELL,all,81381.278,trend kirildi (SMA50) (maliyet $0.62),-35.19
