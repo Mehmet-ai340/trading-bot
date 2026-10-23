@@ -17,12 +17,12 @@
       "costs": 0.0
     },
     "C_momentum": {
-      "realized": -99.45750000000001,
-      "count": 12,
+      "realized": -107.26914200000002,
+      "count": 13,
       "wins": 3,
-      "losses": 9,
+      "losses": 10,
       "peak_equity": 5014.706454,
-      "costs": 2.5
+      "costs": 3.125
     },
     "D_crypto": {
       "realized": 57.15001899999999,
@@ -51,20 +51,15 @@
   },
   "_lastdec_BTCUSD": "2026-10-23",
   "_lastdec_ETHUSD": "2026-10-23",
-  "_lastdec_SPY": "2026-10-22",
-  "_lastdec_QQQ": "2026-10-22",
-  "_lastdec_AAPL": "2026-10-22",
-  "_lastdec_MSFT": "2026-10-22",
-  "_lastdec_NVDA": "2026-10-22",
-  "_lastdec_AMZN": "2026-10-22",
-  "_lastdec_GOOGL": "2026-10-22",
-  "_lastdec_GLD": "2026-10-22",
-  "_lastdec_SLV": "2026-10-22",
+  "_lastdec_SPY": "2026-10-23",
+  "_lastdec_QQQ": "2026-10-23",
+  "_lastdec_AAPL": "2026-10-23",
+  "_lastdec_MSFT": "2026-10-23",
+  "_lastdec_NVDA": "2026-10-23",
+  "_lastdec_AMZN": "2026-10-23",
+  "_lastdec_GOOGL": "2026-10-23",
+  "_lastdec_GLD": "2026-10-23",
+  "_lastdec_SLV": "2026-10-23",
   "_intraday_done_IWM": "2026-10-14",
-  "_intraday_done_DIA": "2026-10-22",
-  "AMZN": {
-    "stop": 231.9642,
-    "peak": 252.135,
-    "notional": 625.0
-  }
+  "_intraday_done_DIA": "2026-10-22"
 }
