@@ -61,3 +61,4 @@ time,strategy,symbol,action,qty_or_notional,price,reason,realized_pnl
 2026-10-23 15:28:07.303737+00:00,C_momentum,AMZN,SELL,all,249.31,trend kirildi (SMA50) (maliyet $0.62),-7.81
 2026-11-04 18:22:22.361614+00:00,B_pullback,MSFT,BUY,625.0,555.965,RSI dipten donus,0.00
 2026-11-11 18:17:04.688864+00:00,F_intraday,DIA,BUY,625.0,523.69,8 mum zirve kirilimi,0.00
+2026-11-13 17:42:31.051489+00:00,F_intraday,DIA,SELL,all,521.87,15dk SMA20 alti (maliyet $0.62),-2.67
