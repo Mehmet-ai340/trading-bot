@@ -9,12 +9,12 @@
       "costs": 1.25
     },
     "B_pullback": {
-      "realized": -17.623916,
-      "count": 1,
+      "realized": -71.785049,
+      "count": 2,
       "wins": 0,
-      "losses": 1,
+      "losses": 2,
       "peak_equity": 5001.318045,
-      "costs": 0.0
+      "costs": 0.625
     },
     "C_momentum": {
       "realized": -107.26914200000002,
@@ -51,20 +51,15 @@
   },
   "_lastdec_BTCUSD": "2026-11-18",
   "_lastdec_ETHUSD": "2026-11-18",
-  "_lastdec_SPY": "2026-11-13",
-  "_lastdec_QQQ": "2026-11-13",
-  "_lastdec_AAPL": "2026-11-13",
-  "_lastdec_MSFT": "2026-11-13",
-  "_lastdec_NVDA": "2026-11-13",
-  "_lastdec_AMZN": "2026-11-13",
-  "_lastdec_GOOGL": "2026-11-13",
-  "_lastdec_GLD": "2026-11-13",
-  "_lastdec_SLV": "2026-11-13",
+  "_lastdec_SPY": "2026-11-18",
+  "_lastdec_QQQ": "2026-11-18",
+  "_lastdec_AAPL": "2026-11-18",
+  "_lastdec_MSFT": "2026-11-18",
+  "_lastdec_NVDA": "2026-11-18",
+  "_lastdec_AMZN": "2026-11-18",
+  "_lastdec_GOOGL": "2026-11-18",
+  "_lastdec_GLD": "2026-11-18",
+  "_lastdec_SLV": "2026-11-18",
   "_intraday_done_IWM": "2026-10-14",
-  "_intraday_done_DIA": "2026-11-13",
-  "MSFT": {
-    "stop": 511.48780000000005,
-    "peak": 555.965,
-    "notional": 625.0
-  }
+  "_intraday_done_DIA": "2026-11-13"
 }
